@@ -1,24 +1,9 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##### 전체적인 과정
+레일즈를 통해 CRUD를 이용한 게시판을 만들고 이전보다 정교한 스타일링을 더했다! 이전 강의에서 배운 것처럼 devise를 통해 로그인 기능을 구현해냈고 추가적으로 'remember me' 기능도 더했다. Upvote를 통해 좋아요 기능도 추가했다.
+<br>
+##### 새로 안 내용
+Upvote 기능! 이곳저곳에 적용하기 좋은 기능이라 생각한다. 나중에 쓸 기회가 생길 것 같다! :D
+<br>
+##### 오류 내용
+이번에도 자잘한 오타로 인한 오류가 잦았다. 무심결에 캡스락을 누르지는 않는지, 타자를 잘못 치지 않았는지 계속 잘 살펴봐야 할 것 같다.
+<br>
